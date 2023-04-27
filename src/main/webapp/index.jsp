@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>welcome to shanthi house!</h2>
+<h2>welcome to world of thronos!</h2>
 </body>
 </html>
